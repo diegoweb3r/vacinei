@@ -52,3 +52,14 @@
 <b>User:</b> id, nome, email, data_nasc, sexo, created_at
 
 <b>VaccineType:</b> id, nome_comercial, fabricante, data_aplic
+
+
+<h3>Convenções</h3>   
+<b>Commits</b>   
+
+| Tipo   | Descrição                                                                 |
+| ------ | ------------------------------------------------------------------------- |
+| **Feat**  | Indica que seu trecho de código inclui um **novo recurso**.               |
+| **Fix**   | Indica que o trecho de código commitado **soluciona um problema**.        |
+| **Doc**   | Indica que houve **mudanças na documentação**.                            |
+| **Style** | Indica **mudanças na formatação e estilos**, sem alterar a lógica do código. |

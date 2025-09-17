@@ -10,6 +10,8 @@
 - CSS3  
 - JavaScript  
 - Git / Github
+- Figma
+
 ---
 
 ### ⚙️ Funcionalidades  
